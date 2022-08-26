@@ -26,9 +26,9 @@
 
   Fuel usage. Type fuel consumption with dot e.g fuelUsagePer100KM=6.5 if PasWagonC6 is comsuming only!!! 6.5 liters/100KM:
   ```
-  http://localhost:8000/calculateDieselUsageForDistance/?distance=250&yearOfProduction=1999&fuelUsagePer100KM=6.5
+  http://localhost:8000/calculateDieselUsageForDistance?distance=250&yearOfProduction=1999&fuelUsagePer100KM=6.5
   ```
   Fail probability:
   ```
-  http://localhost:8000/probabilityOfUnitINjectorFail/?VIN=OIOIDWIO3223
+  http://localhost:8000/probabilityOfUnitINjectorFail?VIN=OIOIDWIO3223
   ```
