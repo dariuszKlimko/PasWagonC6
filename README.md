@@ -10,9 +10,9 @@
   * [Express.js](https://expressjs.com/)
 
 ## Setup
-  Dowwnload repository "PaswagonC6".
+  Download repository "PaswagonC6".
 
-  Open repository "PasWagonC6" in e.g. vscode editor and run:
+  Open folder "PasWagonC6-main" in e.g. vscode editor and run:
   ```
   npm install
   ```
