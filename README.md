@@ -12,7 +12,7 @@
 ## Setup
   Download repository "PaswagonC6".
 
-  Open repository "PasWagonC6" in e.g. vscode editor and run:
+  Open folder "PasWagonC6-main" in e.g. vscode editor and run:
   ```
   npm install
   ```
